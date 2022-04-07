@@ -1,2 +1,0 @@
-
-<p> script connected </p>
