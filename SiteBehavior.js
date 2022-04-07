@@ -1,1 +1,1 @@
-Script connected 
+"Script connected"
