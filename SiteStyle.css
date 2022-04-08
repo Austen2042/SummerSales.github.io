@@ -1,5 +1,5 @@
 body{
-Background-color: pink;
+background-color: pink;
 }
 
 G{
@@ -7,7 +7,7 @@ G{
 }
 
 Btn {
-Color : red; font-size : 36px;
+Color : red; font-size : 36px; border-color : teal; border-style : solid; border : 5px;
 }
 
 h1{
