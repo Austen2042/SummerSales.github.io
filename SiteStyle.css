@@ -7,7 +7,7 @@ G{
 }
 
 Btn {
-Color : blueviolet; font-size : 32px; border: 3px solid black; padding : 7px; margin-right : 50px;
+Color : blueviolet; font-size : 32px; border: 3px solid black; padding-bottom : 7px; padding : 7px; margin-right : 50px;
 Background-color : white; float : right;
 }
 ul li a { text-decoration : none;
