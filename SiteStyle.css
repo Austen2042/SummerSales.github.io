@@ -7,9 +7,9 @@ G{
 }
 
 Btn {
-Color : red; font-size : 36px; border-color : teal; border-style : solid; border : 5px;
+Color : red; font-size : 36px; border-color : white; border-style : solid; border : 5px;
 }
 
 h1{
-    text-align: center; font-size: 62px; border: 5px; border-color: blueviolet; border-style: double; background-color : red;
+    text-align: center; font-size: 62px; border: 5px; border-color: blueviolet; border-style: double; background-color : white;
 }
