@@ -8,7 +8,7 @@ G{
 
 Btn {
 Color : blueviolet; font-size : 36px; border: 3px solid black; padding : 7px; margin-center : 2px;
-Background-color : white; float : center;
+Background-color : white; float : right;
 }
 ul li a { text-decoration : none;
 }
