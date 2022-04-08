@@ -9,3 +9,7 @@ G{
 Btn {
 Color : red; font-size : 36px;
 }
+
+h1{
+    text-align: center; font-size: 62px; border: 5px; border-color: blueviolet; border-style: double;
+}
