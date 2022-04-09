@@ -7,11 +7,11 @@ G{
 }
 
 Btn {
-Color : blueviolet; font-size : 32px; border: 3px solid black; padding-bottom : 7px; padding : 7px; margin-right : 50px;
-Background-color : white; float : right;
+Color : blueviolet; font-size : 32px; border: 3px solid black; padding : 7px; margin-right: 120px;
+Background-color : white; top: 50px; text-decoration: none;
 }
-ul li a { text-decoration : none;
-}
+
+
 
 h1{
     text-align: center; font-size: 62px; border: 5px; border-color: blueviolet; border-style: double; background-color : white;
