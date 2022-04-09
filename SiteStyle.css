@@ -18,5 +18,5 @@ h1{
 }
 
 div.a{
-    position: absolute; font-size: 34px; font-family: lucida handwriting;top: 400px; left: 25%; right: 25%; border: 1px solid blueviolet; background-color: white; opacity: 0.8; padding: 50px;
+    position: absolute; font-size: 34px; font-family: "lucida handwriting";top: 400px; left: 25%; right: 25%; border: 1px solid blueviolet; background-color: white; opacity: 0.8; padding: 50px;
 }
