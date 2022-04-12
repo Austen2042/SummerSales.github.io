@@ -1,5 +1,5 @@
 body{
-background-color: green; font-size: 24px;
+font-size: 24px;
 }
 
 G{
@@ -7,22 +7,30 @@ G{
 }
 
 button{
-Color : blueviolet; font-size : 32px; border: 3px solid blueviolet; padding : 7px; margin-right: 5px; margin-left: 40px; margin-bottom: 20px;
-Background-color : white; top: 10px; text-decoration: none; 
+Color : #946F2C; font-size : 32px;  margin-right: 5px; margin-left: 10px; text-decoration: none; border: none; background-color: rgba(255, 255, 255, 0);
 }
 
 
 
 h1{
-    text-align: center; font-size: 62px; border: 5px; border-color: blueviolet; border-style: double; background-color : white;
+    text-align: center; font-size: 62px; border: 5px; border-color:#F9BB4D; border-style: double; background-color : white;
 }
 
 div.a{
-    position: absolute; font-size: 34px; font-family: cursive;top: 400px; left: 25%; right: 25%; border: 1px solid blueviolet; background-color: white; opacity: 0.8; padding: 50px;
+ height: 1000px; background:url(Pictures/Logo.jpg) center; background-attachment: fixed; background-size: cover; 
 }
 Div.b{
- font-size: 24px;top: 350px; left: 20%; right: 20%; border: 1px solid yellow; background-color: rgba(255, 255, 255, 0.695); padding: 50px; margin-top : 20px;
+ font-size: 24px;top: 350px; left: 20%; right: 20%; border: 1px solid #F9BB4D; background-color: rgba(255, 255, 255, 0.695); padding: 50px; margin-top : 20px;
 }
 li{
     margin-bottom: 20px;
 }
+
+st{
+    text-align: left; font-size: 34px; color: #946F2C;
+}
+
+button:hover{
+    Background-color : #F9BB4D; border: 3px solid #946F2C; border-radius: 10px;
+}
+
