@@ -2,10 +2,6 @@ body{
 font-size: 24px;
 }
 
-G{
-    color : green;
-}
-
 button{
 Color : #946F2C; font-size : 32px;  margin-right: 5px; margin-left: 10px; text-decoration: none; border: none; background-color: rgba(255, 255, 255, 0);
 }
@@ -20,8 +16,13 @@ div.a{
  height: 1000px; background:url(Pictures/Logo.jpg) center; background-attachment: fixed; background-size: cover; 
 }
 Div.b{
- font-size: 24px;top: 350px; left: 20%; right: 20%; border: 1px solid #F9BB4D; background-color: rgba(255, 255, 255, 0.695); padding: 50px; margin-top : 20px;
+ font-size: 24px;top: 350px; left: 20%; right: 20%; border: 7px solid #F9BB4D; background-color: rgba(255, 255, 255, 0.695); padding: 50px; margin-top : 20px;
 }
+
+div.post{
+    font-size: 24px;top: 350px; left: 20%; right: 20%; border: 1px solid #F9BB4D; background-color: rgba(255, 255, 255, 0.695); padding: 50px; margin-top : 20px;
+}
+
 li{
     margin-bottom: 20px;
 }
